@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple encryption</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_encryption_activity">Encryption_activity</string>
+    <string name="title_activity_decryption_activity">Decryption_activity</string>
+    <string name="title_activity_crack__decryption_activity">Crack_Decryption_activity</string>
+</resources>
